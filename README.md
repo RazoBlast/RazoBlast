@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @RazoBlast
-- 👀 I’m interested in e-sports, and web developent plus some overall tech
-- 🌱 I’m learning PHP and SQL
-- 📫 How to reach me, realrazoblast@gmail.com
+- learning rl and partially ml
+- likes linux
+- also a music producer
